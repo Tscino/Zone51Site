@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 11pt;
+    background-color: #232323;
+    color: aliceblue;
+}
+div.zone-layout__wrapper{
+    color: black;
+}
+header.zone-header{
+height: 42pt;
+background-color: #FFE12C;
+}
